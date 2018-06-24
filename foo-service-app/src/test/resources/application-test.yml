@@ -1,0 +1,4 @@
+foo:
+  scheduler:
+    initialDelay: "500"
+    fixedDelay: "200"
