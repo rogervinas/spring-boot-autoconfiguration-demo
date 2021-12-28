@@ -1,6 +1,6 @@
-# Spring Boot AutoConfiguration Demo
+[![CI](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/actions/workflows/maven.yml)
 
-[![Build Status](https://travis-ci.org/rogervinas/foo-service-demo.svg?branch=master)](https://travis-ci.org/rogervinas/foo-service-demo)
+# Spring Boot AutoConfiguration Demo
 
 Foo Service demo using Spring AutoConfiguration.
 
