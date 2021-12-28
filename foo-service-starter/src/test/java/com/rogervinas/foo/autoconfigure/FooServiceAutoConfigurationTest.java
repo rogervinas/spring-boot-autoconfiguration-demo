@@ -4,8 +4,8 @@ import com.rogervinas.foo.FooService;
 import com.rogervinas.foo.JsonFooService;
 import com.rogervinas.foo.XmlFooService;
 import java.io.PrintStream;
-import org.junit.Before;
-import org.junit.Test;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 import org.springframework.boot.autoconfigure.AutoConfigurations;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.test.context.runner.ApplicationContextRunner;
@@ -22,7 +22,7 @@ public class FooServiceAutoConfigurationTest {
 
   private static PrintStream out = mock(PrintStream.class);
 
-  @Before
+  @BeforeEach
   public void before() {
     out = mock(PrintStream.class);
   }
