@@ -1,4 +1,4 @@
-# Foo Service Demo
+# Spring Boot AutoConfiguration Demo
 
 [![Build Status](https://travis-ci.org/rogervinas/foo-service-demo.svg?branch=master)](https://travis-ci.org/rogervinas/foo-service-demo)
 
