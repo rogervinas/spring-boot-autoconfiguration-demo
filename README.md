@@ -13,13 +13,13 @@ As stated in [Testing Auto-Configurations in Spring Boot 2.0](https://spring.io/
 
 ## Build & Test
 
-````shell
+```shell
 ./gradlew build
 ```
 
 ## Run
 
-````shell
+```shell
 ./gradlew bootRun
 ```
 
