@@ -1,4 +1,4 @@
-[![CI](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/actions/workflows/maven.yml)
+[![CI](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/actions/workflows/gradle.yml)
 [![CodeQL](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/actions/workflows/codeql-analysis.yml/badge.svg?branch=master)](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/actions/workflows/codeql-analysis.yml)
 
 # Spring Boot AutoConfiguration Demo
@@ -13,8 +13,13 @@ As stated in [Testing Auto-Configurations in Spring Boot 2.0](https://spring.io/
 
 ## Build & Test
 
-`./mvnw install`
+````shell
+./gradlew build
+```
 
 ## Run
 
-`./mvnw spring-boot:run -pl foo-service-app`
+````shell
+./gradlew bootRun
+```
+
