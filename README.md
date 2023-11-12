@@ -1,5 +1,4 @@
 [![CI](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/actions/workflows/gradle.yml)
-[![CodeQL](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/actions/workflows/codeql-analysis.yml/badge.svg?branch=master)](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/actions/workflows/codeql-analysis.yml)
 
 # Spring Boot AutoConfiguration Demo
 
