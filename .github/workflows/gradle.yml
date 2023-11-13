@@ -18,7 +18,7 @@ jobs:
         with:
           java-version: 21
           distribution: 'temurin'
-      - name: Gradle cache
+      - name: Gradle Cache
         uses: actions/cache@v3
         with:
           path: |
