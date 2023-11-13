@@ -5,7 +5,7 @@ import org.gradle.api.tasks.testing.logging.TestLogEvent.SKIPPED
 
 plugins {
     java
-    id("org.springframework.boot") version "2.7.17" apply false
+    id("org.springframework.boot") version "3.1.5" apply false
     id("io.spring.dependency-management") version "1.0.15.RELEASE" apply false
 }
 
