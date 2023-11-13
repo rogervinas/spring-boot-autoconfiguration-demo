@@ -1,3 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.rogervinas.foo.autoconfigure.JsonFooServiceAutoConfiguration\
-  ,com.rogervinas.foo.autoconfigure.XmlFooServiceAutoConfiguration
