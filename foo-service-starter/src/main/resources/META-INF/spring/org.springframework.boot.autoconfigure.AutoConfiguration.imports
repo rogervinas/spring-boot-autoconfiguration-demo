@@ -1,0 +1,2 @@
+com.rogervinas.foo.autoconfigure.JsonFooServiceAutoConfiguration
+com.rogervinas.foo.autoconfigure.XmlFooServiceAutoConfiguration
