@@ -4,9 +4,11 @@
 
 # Spring Boot AutoConfiguration Demo
 
-Foo Service demo using Spring AutoConfiguration.
+Foo Service demo using Spring Auto-Configuration.
 
-Inspired by [hello-service-auto-configuration](https://github.com/snicoll-demos/hello-service-auto-configuration) and [It's a Kind of Magic: Under the Covers of Spring Boot - Brian Clozel, Stéphane Nicoll](https://www.youtube.com/watch?v=jDchAEHIht0).
+Inspired by [hello-service-auto-configuration](https://github.com/snicoll-demos/hello-service-auto-configuration) and [It's a Kind of Magic: Under the Covers of Spring Boot - Brian Clozel, Stéphane Nicoll](https://www.youtube.com/watch?v=jDchAEHIht0)
+
+[Changes to Auto-Configuration Files](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.0-Migration-Guide#auto-configuration-files) since Spring Boot 3.x
 
 You can browse older versions:
 * [Spring Boot 2.x](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/tree/spring-boot-2.x)
