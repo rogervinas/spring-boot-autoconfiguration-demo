@@ -1,5 +1,4 @@
 [![CI](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/actions/workflows/gradle.yml)
-[![CodeQL](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/actions/workflows/codeql-analysis.yml/badge.svg?branch=master)](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/actions/workflows/codeql-analysis.yml)
 ![Java](https://img.shields.io/badge/Java-11-blue?labelColor=black)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-2.6.2-blue?labelColor=black)
 
