@@ -6,7 +6,7 @@ import org.gradle.api.tasks.testing.logging.TestLogEvent.SKIPPED
 plugins {
     java
     id("org.springframework.boot") version "3.1.5" apply false
-    id("io.spring.dependency-management") version "1.1.3" apply false
+    id("io.spring.dependency-management") version "1.1.4" apply false
 }
 
 group = "com.rogervinas.foo"
