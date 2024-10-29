@@ -1,6 +1,6 @@
 [![CI](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/rogervinas/spring-boot-autoconfiguration-demo/actions/workflows/ci.yml)
 ![Java](https://img.shields.io/badge/Java-21-blue?labelColor=black)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-3.3.4-blue?labelColor=black)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-3.3.x-blue?labelColor=black)
 
 # Spring Boot AutoConfiguration Demo
 
