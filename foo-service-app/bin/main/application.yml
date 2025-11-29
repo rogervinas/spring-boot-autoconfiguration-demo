@@ -1,0 +1,7 @@
+foo:
+  scheduler:
+    initialDelay: "1000"
+    fixedDelay: "1000"
+  json:
+    enabled: true
+    field-name: "timestamp"
