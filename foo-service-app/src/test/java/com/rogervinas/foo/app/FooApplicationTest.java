@@ -5,9 +5,9 @@ import com.rogervinas.foo.JsonFooService;
 import java.io.PrintStream;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.boot.test.mock.mockito.MockBean;
-import org.springframework.boot.test.mock.mockito.SpyBean;
 import org.springframework.test.context.ActiveProfiles;
+import org.springframework.test.context.bean.override.mockito.MockitoBean;
+import org.springframework.test.context.bean.override.mockito.MockitoSpyBean;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.mockito.ArgumentMatchers.anyString;
@@ -18,10 +18,10 @@ import static org.mockito.Mockito.verify;
 @ActiveProfiles("test")
 public class FooApplicationTest {
 
-  @MockBean
+  @MockitoBean
   private PrintStream out;
 
-  @SpyBean
+  @MockitoSpyBean
   private FooService service;
 
   @Test
